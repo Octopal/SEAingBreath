@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d290a3fb040f64b76a360c540db1f1f7
+timeCreated: 1494459492
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Caf? Fran?oise
+  fontNames:
+  - Caf? Fran?oise
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

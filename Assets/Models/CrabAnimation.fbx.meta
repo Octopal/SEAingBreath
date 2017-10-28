@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: 6d384cfa36ada47f7b26cf9a6706d3ab
+timeCreated: 1493847226
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BigFinger_L
+    100002: BigFinger_L_Goal
+    100004: BigFinger_R
+    100006: BigFinger_R_Goal
+    100008: BottomBackLeg1_L
+    100010: BottomBackLeg1_R
+    100012: BottomBackLeg2_L
+    100014: BottomBackLeg2_R
+    100016: BottomBackLeg3_L
+    100018: BottomBackLeg3_L_Goal
+    100020: BottomBackLeg3_R
+    100022: BottomBackLeg3_R_Goal
+    100024: BottomFrontLeg1_L
+    100026: BottomFrontLeg1_R
+    100028: BottomFrontLeg2_L
+    100030: BottomFrontLeg2_R
+    100032: BottomFrontLeg3_L
+    100034: BottomFrontLeg3_L_Goal
+    100036: BottomFrontLeg3_R
+    100038: BottomFrontLeg3_R_Goal
+    100040: Crab
+    100042: //RootNode
+    100044: DrainKnob
+    100046: DrainKnob_Goal
+    100048: DrainKnobJoint1
+    100050: DrainKnobJoint2
+    100052: DrainKnobJoint3
+    100054: DrainKnobRoot
+    100056: Hand_L
+    100058: Hand_R
+    100060: Head
+    100062: Null
+    100064: Null_2
+    100066: Pelvis
+    100068: Shell
+    100070: ShellInside
+    100072: ShellOutside
+    100074: Shoulder_L
+    100076: Shoulder_R
+    100078: Skeleton
+    100080: SmallFinger_L
+    100082: SmallFinger_R
+    100084: SmallFingerEnd_L
+    100086: SmallFingerEnd_R
+    100088: Spine
+    100090: Tube
+    400000: BigFinger_L
+    400002: BigFinger_L_Goal
+    400004: BigFinger_R
+    400006: BigFinger_R_Goal
+    400008: BottomBackLeg1_L
+    400010: BottomBackLeg1_R
+    400012: BottomBackLeg2_L
+    400014: BottomBackLeg2_R
+    400016: BottomBackLeg3_L
+    400018: BottomBackLeg3_L_Goal
+    400020: BottomBackLeg3_R
+    400022: BottomBackLeg3_R_Goal
+    400024: BottomFrontLeg1_L
+    400026: BottomFrontLeg1_R
+    400028: BottomFrontLeg2_L
+    400030: BottomFrontLeg2_R
+    400032: BottomFrontLeg3_L
+    400034: BottomFrontLeg3_L_Goal
+    400036: BottomFrontLeg3_R
+    400038: BottomFrontLeg3_R_Goal
+    400040: Crab
+    400042: //RootNode
+    400044: DrainKnob
+    400046: DrainKnob_Goal
+    400048: DrainKnobJoint1
+    400050: DrainKnobJoint2
+    400052: DrainKnobJoint3
+    400054: DrainKnobRoot
+    400056: Hand_L
+    400058: Hand_R
+    400060: Head
+    400062: Null
+    400064: Null_2
+    400066: Pelvis
+    400068: Shell
+    400070: ShellInside
+    400072: ShellOutside
+    400074: Shoulder_L
+    400076: Shoulder_R
+    400078: Skeleton
+    400080: SmallFinger_L
+    400082: SmallFinger_R
+    400084: SmallFingerEnd_L
+    400086: SmallFingerEnd_R
+    400088: Spine
+    400090: Tube
+    2300000: ShellInside
+    2300002: ShellOutside
+    2300004: Tube
+    3300000: ShellInside
+    3300002: ShellOutside
+    3300004: Tube
+    4300000: Tube
+    4300002: DrainKnob
+    4300004: ShellInside
+    4300006: ShellOutside
+    4300008: Crab
+    7400000: Shell_GoOut
+    7400002: Shell_Talking
+    7400004: Sea_Idle
+    7400006: Sea_Talking
+    7400008: Sea_WalkToKnob
+    7400010: Sea_KnobIdle
+    7400012: Sea_OpenKnob
+    9500000: //RootNode
+    13700000: Crab
+    13700002: DrainKnob
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Shell_GoOut
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BigFinger_L_Goal
+        weight: 1
+      - path: BigFinger_R_Goal
+        weight: 1
+      - path: BottomBackLeg3_L_Goal
+        weight: 1
+      - path: BottomBackLeg3_R_Goal
+        weight: 1
+      - path: BottomFrontLeg3_L_Goal
+        weight: 1
+      - path: BottomFrontLeg3_R_Goal
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Null_2
+        weight: 1
+      - path: DrainKnob
+        weight: 1
+      - path: DrainKnob/Null
+        weight: 1
+      - path: DrainKnob_Goal
+        weight: 1
+      - path: DrainKnobRoot
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2/DrainKnobJoint3
+        weight: 1
+      - path: Shell
+        weight: 1
+      - path: Shell/ShellInside
+        weight: 1
+      - path: Shell/ShellOutside
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Pelvis
+        weight: 1
+      - path: Skeleton/Pelvis/Spine
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L/BottomBackLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R/BottomBackLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L/BottomFrontLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R/BottomFrontLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Head
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/BigFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L/SmallFingerEnd_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/BigFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R/SmallFingerEnd_R
+        weight: 1
+      - path: Tube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shell_Talking
+      takeName: C4D Animation Take
+      firstFrame: 45
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BigFinger_L_Goal
+        weight: 1
+      - path: BigFinger_R_Goal
+        weight: 1
+      - path: BottomBackLeg3_L_Goal
+        weight: 1
+      - path: BottomBackLeg3_R_Goal
+        weight: 1
+      - path: BottomFrontLeg3_L_Goal
+        weight: 1
+      - path: BottomFrontLeg3_R_Goal
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Null_2
+        weight: 1
+      - path: DrainKnob
+        weight: 1
+      - path: DrainKnob/Null
+        weight: 1
+      - path: DrainKnob_Goal
+        weight: 1
+      - path: DrainKnobRoot
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2/DrainKnobJoint3
+        weight: 1
+      - path: Shell
+        weight: 1
+      - path: Shell/ShellInside
+        weight: 1
+      - path: Shell/ShellOutside
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Pelvis
+        weight: 1
+      - path: Skeleton/Pelvis/Spine
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L/BottomBackLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R/BottomBackLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L/BottomFrontLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R/BottomFrontLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Head
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/BigFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L/SmallFingerEnd_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/BigFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R/SmallFingerEnd_R
+        weight: 1
+      - path: Tube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sea_Idle
+      takeName: C4D Animation Take
+      firstFrame: 100
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BigFinger_L_Goal
+        weight: 1
+      - path: BigFinger_R_Goal
+        weight: 1
+      - path: BottomBackLeg3_L_Goal
+        weight: 1
+      - path: BottomBackLeg3_R_Goal
+        weight: 1
+      - path: BottomFrontLeg3_L_Goal
+        weight: 1
+      - path: BottomFrontLeg3_R_Goal
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Null_2
+        weight: 1
+      - path: DrainKnob
+        weight: 1
+      - path: DrainKnob/Null
+        weight: 1
+      - path: DrainKnob_Goal
+        weight: 1
+      - path: DrainKnobRoot
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2/DrainKnobJoint3
+        weight: 1
+      - path: Shell
+        weight: 1
+      - path: Shell/ShellInside
+        weight: 1
+      - path: Shell/ShellOutside
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Pelvis
+        weight: 1
+      - path: Skeleton/Pelvis/Spine
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L/BottomBackLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R/BottomBackLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L/BottomFrontLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R/BottomFrontLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Head
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/BigFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L/SmallFingerEnd_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/BigFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R/SmallFingerEnd_R
+        weight: 1
+      - path: Tube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sea_Talking
+      takeName: C4D Animation Take
+      firstFrame: 190
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BigFinger_L_Goal
+        weight: 1
+      - path: BigFinger_R_Goal
+        weight: 1
+      - path: BottomBackLeg3_L_Goal
+        weight: 1
+      - path: BottomBackLeg3_R_Goal
+        weight: 1
+      - path: BottomFrontLeg3_L_Goal
+        weight: 1
+      - path: BottomFrontLeg3_R_Goal
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Null_2
+        weight: 1
+      - path: DrainKnob
+        weight: 1
+      - path: DrainKnob/Null
+        weight: 1
+      - path: DrainKnob_Goal
+        weight: 1
+      - path: DrainKnobRoot
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2/DrainKnobJoint3
+        weight: 1
+      - path: Shell
+        weight: 1
+      - path: Shell/ShellInside
+        weight: 1
+      - path: Shell/ShellOutside
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Pelvis
+        weight: 1
+      - path: Skeleton/Pelvis/Spine
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L/BottomBackLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R/BottomBackLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L/BottomFrontLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R/BottomFrontLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Head
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/BigFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L/SmallFingerEnd_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/BigFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R/SmallFingerEnd_R
+        weight: 1
+      - path: Tube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sea_WalkToKnob
+      takeName: C4D Animation Take
+      firstFrame: 310
+      lastFrame: 382
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BigFinger_L_Goal
+        weight: 1
+      - path: BigFinger_R_Goal
+        weight: 1
+      - path: BottomBackLeg3_L_Goal
+        weight: 1
+      - path: BottomBackLeg3_R_Goal
+        weight: 1
+      - path: BottomFrontLeg3_L_Goal
+        weight: 1
+      - path: BottomFrontLeg3_R_Goal
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Null_2
+        weight: 1
+      - path: DrainKnob
+        weight: 1
+      - path: DrainKnob/Null
+        weight: 1
+      - path: DrainKnob_Goal
+        weight: 1
+      - path: DrainKnobRoot
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2/DrainKnobJoint3
+        weight: 1
+      - path: Shell
+        weight: 1
+      - path: Shell/ShellInside
+        weight: 1
+      - path: Shell/ShellOutside
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Pelvis
+        weight: 1
+      - path: Skeleton/Pelvis/Spine
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L/BottomBackLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R/BottomBackLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L/BottomFrontLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R/BottomFrontLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Head
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/BigFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L/SmallFingerEnd_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/BigFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R/SmallFingerEnd_R
+        weight: 1
+      - path: Tube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sea_KnobIdle
+      takeName: C4D Animation Take
+      firstFrame: 382
+      lastFrame: 396
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BigFinger_L_Goal
+        weight: 1
+      - path: BigFinger_R_Goal
+        weight: 1
+      - path: BottomBackLeg3_L_Goal
+        weight: 1
+      - path: BottomBackLeg3_R_Goal
+        weight: 1
+      - path: BottomFrontLeg3_L_Goal
+        weight: 1
+      - path: BottomFrontLeg3_R_Goal
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Null_2
+        weight: 1
+      - path: DrainKnob
+        weight: 1
+      - path: DrainKnob/Null
+        weight: 1
+      - path: DrainKnob_Goal
+        weight: 1
+      - path: DrainKnobRoot
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2/DrainKnobJoint3
+        weight: 1
+      - path: Shell
+        weight: 1
+      - path: Shell/ShellInside
+        weight: 1
+      - path: Shell/ShellOutside
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Pelvis
+        weight: 1
+      - path: Skeleton/Pelvis/Spine
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L/BottomBackLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R/BottomBackLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L/BottomFrontLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R/BottomFrontLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Head
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/BigFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L/SmallFingerEnd_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/BigFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R/SmallFingerEnd_R
+        weight: 1
+      - path: Tube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sea_OpenKnob
+      takeName: C4D Animation Take
+      firstFrame: 396
+      lastFrame: 419
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BigFinger_L_Goal
+        weight: 1
+      - path: BigFinger_R_Goal
+        weight: 1
+      - path: BottomBackLeg3_L_Goal
+        weight: 1
+      - path: BottomBackLeg3_R_Goal
+        weight: 1
+      - path: BottomFrontLeg3_L_Goal
+        weight: 1
+      - path: BottomFrontLeg3_R_Goal
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: Crab/Null_2
+        weight: 1
+      - path: DrainKnob
+        weight: 1
+      - path: DrainKnob/Null
+        weight: 1
+      - path: DrainKnob_Goal
+        weight: 1
+      - path: DrainKnobRoot
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2
+        weight: 1
+      - path: DrainKnobRoot/DrainKnobJoint1/DrainKnobJoint2/DrainKnobJoint3
+        weight: 1
+      - path: Shell
+        weight: 1
+      - path: Shell/ShellInside
+        weight: 1
+      - path: Shell/ShellOutside
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Pelvis
+        weight: 1
+      - path: Skeleton/Pelvis/Spine
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_L/BottomBackLeg2_L/BottomBackLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomBackLeg1_R/BottomBackLeg2_R/BottomBackLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_L/BottomFrontLeg2_L/BottomFrontLeg3_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/BottomFrontLeg1_R/BottomFrontLeg2_R/BottomFrontLeg3_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Head
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/BigFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_L/Hand_L/SmallFinger_L/SmallFingerEnd_L
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/BigFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R
+        weight: 1
+      - path: Skeleton/Pelvis/Spine/Shoulder_R/Hand_R/SmallFinger_R/SmallFingerEnd_R
+        weight: 1
+      - path: Tube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
