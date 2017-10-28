@@ -1,5 +1,9 @@
 App for SEAingBreath project
 
+# Dependencies 
+You need Amplify Shader Asset to run some shaders in the game https://www.assetstore.unity3d.com/en/#!/content/68570
+Probably you need to clean OSC plugin dead references because it has been used for debuging controller 
+
 # Documentation
 
 ## FBX visibility and animation
